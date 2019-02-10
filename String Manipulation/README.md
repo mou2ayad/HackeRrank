@@ -11,3 +11,7 @@ https://www.hackerrank.com/challenges/common-child/problem
 
 Strings: Making Anagrams:
 https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+
+
+Simple Text Editor:
+https://www.hackerrank.com/challenges/simple-text-editor/problem
